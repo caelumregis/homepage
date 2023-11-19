@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url('php-museum.jpeg'); 
+    background-size: cover;
+    background-position: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1.white-text {
+    color: #fff !important;
+}
+
+p {
+    color: #fff !important;
+}
+
+
+
+a.btn {
+    background-color: black;
+}
